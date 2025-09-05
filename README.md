@@ -36,7 +36,7 @@ template/
 ## AI-Human Collaboration Features
 
 ### AI_README.md - Quick Start for AI Assistants
-**NEW**: This file contains complete system instructions for any AI assistant. Instead of explaining the entire project structure in each new conversation, simply share this file with the AI to provide instant context about:
+This file contains complete system instructions for any AI assistant. Instead of explaining the entire project structure in each new conversation, simply share this file with the AI to provide instant context about:
 - The template's purpose and structure
 - Each file's role in the book-writing process
 - How to initiate a book project with proper discovery questions
@@ -335,5 +335,6 @@ This template is designed to be freely used and adapted for any book project. Mo
 ---
 
 **Happy Writing!**
+
 
 Remember: The best book template is the one you actually use. Adapt this structure to fit your writing style, project needs, and creative process. The goal is to support your writing, not constrain it. The AI collaboration features are designed to enhance, not replace, human creativity.
